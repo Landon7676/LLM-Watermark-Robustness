@@ -1,0 +1,3 @@
+[submodule "external_lm_watermarking"]
+	path = external_lm_watermarking
+	url = https://github.com/jwkirchenbauer/lm-watermarking.git
